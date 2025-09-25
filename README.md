@@ -1,5 +1,5 @@
-> # #AI-Travel-Planner-Agent ✈️
-> # Features
+# #AI-Travel-Planner-Agent ✈️
+# Features
 Fetches real attractions using OpenTripMap API.
 
 Creates day-wise itinerary using an LLM.
