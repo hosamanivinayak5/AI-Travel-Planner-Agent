@@ -1,4 +1,4 @@
-# #AI-Travel-Planner-Agent ✈️
+# # AI-Travel-Planner-Agent ✈️
 # Features
 Fetches real attractions using OpenTripMap API.
 
